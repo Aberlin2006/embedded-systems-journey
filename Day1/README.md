@@ -35,6 +35,9 @@ Digital HIGH and LOW
 Basic Arduino program structure
 setup() and loop()│
 GPIO 2
+
+<img width="481" height="435" alt="image" src="https://github.com/user-attachments/assets/edcb3fbb-bf72-491c-8961-e4d6dfdc5b99" />
+
   │
 220Ω Resistor
   │
