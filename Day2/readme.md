@@ -31,11 +31,3 @@ ESP32 GPIO 2
 
 
 ---
-
-## 4. Create your progress file
-
-Create:
-
-```text
-progress/daily-progress.md
-
